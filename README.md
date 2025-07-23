@@ -7,6 +7,8 @@ Welocome! This repository contains a collection of python programs that i practi
 Here are some of the programs included:
 
 1.Armstrong number checker.
-2.Factorial calculator
+
+2.Factorial calculator.
+
 3.Hangman game(with word guessing).
 
