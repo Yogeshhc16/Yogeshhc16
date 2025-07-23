@@ -1,27 +1,11 @@
-#Hangman game descriptiom
+#code practice Repository 
 
-This is a simple "Hangman game" built using python.The player has to guess the secret word one letter at a time before they run out of chances
+Welocome! This repository contains a collection of python programs that i practiced to improve my understanding of basics programming concepts.
 
-#How to play:
+#Contents
 
-1.The program will select a random word from the list.
+Here are some of the programs included:
 
-2.You have to guess the word letter by letter.
+1.Armstrong number checker
+2.Hangman game(with word guessing)
 
-3.You get a limited number of wrong guesses.
-
-4.The game ends when you guess the word or run out of chances.
-
-#Features:
-
-1.Text-based interface.
-
-2.Random word selection.
-
-3.Tracks incorrect guesses.
-
-4.Displays word progress and remaining attempts.
-
-#How to run:
-
-Make sure python is installed on your system
