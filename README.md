@@ -12,3 +12,5 @@ Here are some of the programs included:
 
 3.Hangman game(with word guessing).
 
+4.Finding prime number using both For and While loop
+
